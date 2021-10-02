@@ -3,15 +3,16 @@
 This is a simple python3 Personal assistant.
 Current Skills added:
 1. Weather
-  1. Weather updates
-  2. Wind speed
-  3. Wind direction
-  4. Snow changes
-  5. Rain changes
-  6. Wind speed
-  7. Temperature(Fahrenheit)
-  8. Sunraise
-
+  <ol>
+  Weather updates
+  Wind speed
+  Wind direction
+  Snow changes
+  Rain changes
+  Wind speed
+  Temperature(Fahrenheit)
+  Sunraise
+  </ol>
 
 2. StopWatch
   1. Stopwatch start
