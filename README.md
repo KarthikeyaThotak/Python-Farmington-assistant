@@ -2,7 +2,7 @@
 
 This is a simple python3 Personal assistant.
 Current Skills added:
-1. Weather
+#1. Weather
   <ol>
   <li>Weather updates</li>
   <li>Wind speed</li>
@@ -14,7 +14,7 @@ Current Skills added:
   <li>Sunraise</li>
   </ol>
 
-2. StopWatch
+#2. StopWatch
   <lo>
   <li>Stopwatch start</li>
   <li>Stopwate stop</li>
