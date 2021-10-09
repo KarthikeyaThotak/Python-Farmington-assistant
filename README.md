@@ -30,3 +30,7 @@ Planning to add Skills:
   <li>Control IOT devices.(Ex. Lights, Laptops, Phones,etc)</li>
   <li>Any CyberAttck intrustion detection.</li>
   </lo>
+  
+# For Installing PyAudio
+##Linux
+  Use this command to install ``sudo apt-get install -y python-pydub``
