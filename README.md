@@ -32,5 +32,5 @@ Planning to add Skills:
   </lo>
   
 # For Installing PyAudio
-##Linux
+## Linux
   Use this command to install ``sudo apt-get install -y python-pydub``
